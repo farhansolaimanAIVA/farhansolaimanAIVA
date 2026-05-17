@@ -45,6 +45,5 @@ We build agentic pipelines and automation systems, then we keep them running. Ma
 
 ## 💬 Work with us
 
-- **📧 Email:** team@autodelegate.ai
 - **🌐 [Start a project →](https://virtualassistantsph.com/contact)**
 - Send the workflow, integration, or system you need built or stabilised. Include your timezone and current stack.
